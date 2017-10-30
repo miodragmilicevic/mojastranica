@@ -1,0 +1,9 @@
+*.pyc
+*-
+__pycashe__
+mysitee
+db.sqlite3
+/static
+.DS_Store
+
+
